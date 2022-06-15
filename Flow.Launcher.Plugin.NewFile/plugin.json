@@ -1,0 +1,12 @@
+{
+  "ID": "4EC7A9B9-EE8E-4F3F-9CD5-3B5952AF2108",
+  "ActionKeyword": ".txt",
+  "Name": "NewFile",
+  "Description": "Create new file",
+  "Author": "Mozma",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Mozma/Flow.Launcher.Plugin.NewFile",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.NewFile.dll"
+}
